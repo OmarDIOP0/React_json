@@ -1,0 +1,18 @@
+{
+    "blogs":[
+        {
+            "id":1,
+            "title":"Une si longue lettre",
+            "body":"Le livre est presenté",
+            "author":"Mariama Ba",
+            "date":"12/01/2001"
+          },
+          {
+            "id":2,
+            "title":"Vol de nuit",
+            "body":"Ainsi un vol se produisa la nuit",
+            "author":"Antoine Saint Exupery",
+            "date":"18/03/2004"
+          }
+    ]
+}
